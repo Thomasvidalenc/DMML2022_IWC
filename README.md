@@ -6,7 +6,7 @@
 ### Team IWC members : 
 
 - Ismael Tewfik
-- Thomas Vidlalenc
+- Thomas Vidalenc
 
 
 ## Project description - the idea 💎
