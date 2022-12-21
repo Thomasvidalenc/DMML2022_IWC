@@ -22,9 +22,9 @@ To construct our model, we used the dataset taht was given to us on Kaggle, such
 
 Regarding the columns we used
 
-id: Numerical identifier of the sentence.
-sentence: A sentence in French for which you want to predict the difficulty level.
-difficulty: The difficulty level of the sentence (from A1 to C2). This column would be your target variable.
+- id: Numerical identifier of the sentence.
+- sentence: A sentence in French for which you want to predict the difficulty level.
+- difficulty: The difficulty level of the sentence (from A1 to C2). This column would be your target variable.
 
 
 ## Summary of results table
