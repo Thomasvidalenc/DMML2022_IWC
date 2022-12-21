@@ -30,4 +30,4 @@ In this project, we wanted to detect the difficulty level of the french texts. T
 
 
 
-[![OpenAI Logo](https://user-images.githubusercontent.com/114933881/208678981-31945b49-81c4-4d0b-9041-d658687ab0ce.png)](https://www.youtube.com/watch?v=PTvTLvkiAbI)
+[Our Demo](https://www.youtube.com/watch?v=H1HdZFgR-aA)
