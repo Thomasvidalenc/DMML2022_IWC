@@ -16,9 +16,9 @@ In this project, we wanted to detect the difficulty level of the french texts. T
 ## Approach 📂
 To construct our model, we used the dataset that was given to us on Kaggle, such as : 
 
-- training_data.csv, it is the training set.
-- unlabelled_test_data.csv, it is the test file.
-- sample_submission.csv, it is the sample submission file in the correct format.
+- training_data.csv, the training set.
+- unlabelled_test_data.csv, the test file.
+- sample_submission.csv, the sample submission file in the correct format.
 
 Regarding the columns we used
 
