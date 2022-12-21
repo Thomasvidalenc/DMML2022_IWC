@@ -3,7 +3,10 @@
 # DMML2022 - Team IWC
 
 ## Detecting the difficulty level of french texts
-### Team IWC
+### Team IWC members : 
+
+- Ismael Tewfik
+- Thomas Vidlalenc
 
 
 ## Project description - the idea
