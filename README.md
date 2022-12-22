@@ -66,4 +66,4 @@ Then, after many hours of fighting with the code, we taught about changing our a
 
 - [Camembert](https://camembert-model.fr)
 - [Huggingface](https://huggingface.co)
-- [towardsdatascience](https://towardsdatascience.com/whats-hugging-face-122f4e7eb11a)
+- [Towardsdatascience](https://towardsdatascience.com/whats-hugging-face-122f4e7eb11a)
