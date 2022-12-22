@@ -28,9 +28,11 @@ Regarding the columns we used
 
 #### Plan :
 
-At the beggining of our project we decided to proceed as the T.A told us, which is to work with a dataset without using any data cleaning. In order to do that we vectorized the sentences using TDIF and apply the different models, Logistic regression, kNN, Decision Tree and Random Forests, on the obtained data. After seeing the results, we realized that it wasn't precise at all. So we decided to use the LinearSVC and once again the result was not convincing at all. Then we tried another approach, we used the multilanguage. The result was the worst we got, so here again we decided to abandon this solution. 
+At the beginning of our project, we decided to proceed as the T.A. told us, which is to work with a dataset without using any data cleaning. In order to do that, we vectorized the sentences using TDIF and applied the different models—logistic regression, kNN, decision trees, and random forests—on the obtained data. After seeing the results, we realized that it wasn't precise at all. So we decided to use the linear SVC, and once again the result was not convincing. Then we tried another approach: we used multilanguage. The result we got with this model was the worst, a precision of 0.243. We understood something was missing in our approach.
 
-After many hours fighting with the code, we found CamenBert.
+Then, after many hours of fighting with the code, we taught about changing our approach and using a text encoding. At the end, we used the French version of Bert, CamemBert.
+
+
 
 - Work in the dataset without using any data cleaning
 - Work in the dataset with cleaning
