@@ -40,10 +40,10 @@ Then, after many hours of fighting with the code, we taught about changing our a
 
 |  | Logistic regression |kNN	| Decision Tree | Random Forests |
 | ------------- | ------------- |----------| ------------- | ------------- |
-| Precision |||  |  |
-| Recall |||  |  |
-| F1-score | ||  |  |
-| Accuracy |  ||  |  |
+| Precision |0.4656|0.4030| 0.3004 | 0.3158 |
+| Recall |0.4667|0.3187| 0.2969 | 0.3156 |
+| F1-score | 0.4640|0.3022| 0.2952 | 0.3008 |
+| Accuracy | 0.4667 |0.3187| 0.2969 | 0.3156 |
 
 
 - Final result
