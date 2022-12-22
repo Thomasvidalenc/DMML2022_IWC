@@ -27,11 +27,12 @@ Regarding the columns we used
 - difficulty: The difficulty level of the sentence (from A1 to C2). This column would be your target variable.
 
 #### Plan :
-To build our model for this project, we decided to do it in 3 parts:
 
-i. Work in the dataset without using any data cleaning
-ii. Work in the dataset with cleaning
-iii. Use the french version of "Bert", "Camembert"
+To build our model for this project, we decided to do it in 3 parts: 
+
+- Work in the dataset without using any data cleaning
+- Work in the dataset with cleaning
+- Use the french version of "Bert", "Camembert"
 
 
 ## Summary of results table
