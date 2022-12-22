@@ -34,11 +34,6 @@ Then, after many hours of fighting with the code, we taught about changing our a
 
 
 
-- Work in the dataset without using any data cleaning
-- Work in the dataset with cleaning
-- Use the french version of "Bert", "Camembert"
-
-
 ## Summary of results table
 
 - Without Data Cleaning
