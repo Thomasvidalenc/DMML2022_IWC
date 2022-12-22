@@ -63,3 +63,6 @@ Then, after many hours of fighting with the code, we taught about changing our a
 [Our Demo](https://www.youtube.com/watch?v=H1HdZFgR-aA)
 
 ## Sources
+
+[Camembert](https://camembert-model.fr)
+[Huggingface](https://huggingface.co)
