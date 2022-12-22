@@ -64,5 +64,5 @@ Then, after many hours of fighting with the code, we taught about changing our a
 
 ## Sources
 
-[Camembert](https://camembert-model.fr)
-[Huggingface](https://huggingface.co)
+- [Camembert](https://camembert-model.fr)
+- [Huggingface](https://huggingface.co)
