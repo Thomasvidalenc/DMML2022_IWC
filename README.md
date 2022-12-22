@@ -26,7 +26,7 @@ Regarding the columns we used
 - sentence: A sentence in French for which you want to predict the difficulty level.
 - difficulty: The difficulty level of the sentence (from A1 to C2). This column would be your target variable.
 
-#### Plan
+#### Plan :
 To build our model for this project, we decided to do it in 3 parts:
 
 - Work in the dataset without using any data cleaning
