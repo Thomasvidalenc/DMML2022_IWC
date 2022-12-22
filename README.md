@@ -29,6 +29,7 @@ Regarding the columns we used
 #### Plan :
 
 To build our model for this project, we decided to do it in 3 parts: 
+At the beggining of our project we decided 
 
 - Work in the dataset without using any data cleaning
 - Work in the dataset with cleaning
