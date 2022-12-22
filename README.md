@@ -39,12 +39,14 @@ At the beggining of our project we decided
 ## Summary of results table
 
 - Without Data Cleaning
-|| Logistic Regression | Knn | Decision Tree | Random Forests | Random Forests |
-| --- | --- | --- | --- | --- | --- |
-| Precision |  |  |  |  |  |
-| Recall |  |  |  |  |  |
-| F1-Score |  |  |  |  |  |
-| Accuracy | |  |  |  |  |
+
+|  | Logistic regression |kNN	| Decision Tree | Random Forests |LinearSVC|
+| ------------- | ------------- |----------| ------------- | ------------- |----------|
+| Precision |||  |  ||
+| Recall |||  |  ||
+| F1-score | ||  |  ||
+| Accuracy |  ||  |  ||
+
 
 -Final result
 
