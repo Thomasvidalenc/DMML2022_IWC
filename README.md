@@ -48,10 +48,10 @@ At the beggining of our project we decided
 | Accuracy |  ||  |  ||
 
 
--Final result
+- Final result
 
 || LinearSVC | CamemBERT | 
-| --- | --- |
+| --- | --- |---|
 | Precision |  |  |
 | Recall |  |  | 
 | F1-Score |  |  | 
