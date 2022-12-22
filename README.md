@@ -53,7 +53,7 @@ Then, after many hours of fighting with the code, we taught about changing our a
 | Precision | 0.4992 |  0.59 |
 | Recall | 0.5010 |  0.59 | 
 | F1-Score | 0.4974 |  0.59 | 
-| Accuracy |0.5010 |   0.59|  
+| Accuracy |0.5010 |   x|  
 
 
 ## Video link 🎥 
